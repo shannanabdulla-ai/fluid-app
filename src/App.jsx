@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useEffect, useCallback, useRef } from "react";
 
 // ─── Color Palette ───────────────────────────────────────────────────
 const C = { primary: "#2C4A44", secondary: "#99A799", bg: "#FAF9F6", accent: "#C27B66", surface: "#F1EFE7", success: "#708238", alert: "#D6AD60", textPrimary: "#1E2322", textSecondary: "#6B7270" };
